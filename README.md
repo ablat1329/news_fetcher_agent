@@ -1,7 +1,7 @@
 # 🤖 AI News Intelligence Agent
 
 A sophisticated conversational AI agent that fetches, summarizes, and delivers personalized news updates with intelligent term extraction and email delivery capabilities. The app is deployed on streamlit cloud and accessable with the following link:
-[Streamlit Cloud](https://ainewsupdateagent-58addsmjn6kyp6lcqttew7.streamlit.app/)
+[Streamlit Cloud](https://v6ndvvdit9ba3p63kfuejk.streamlit.app/)
 
 
 ## ✨ Features
